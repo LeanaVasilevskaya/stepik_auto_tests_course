@@ -1,0 +1,69 @@
+1691188685456	geckodriver	INFO	Listening on 127.0.0.1:55066
+1691188688533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileL2aP5K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691188689075	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691188689079	Marionette	INFO	Listening on port 55077
+Read port: 55077
+WebDriver BiDi listening on ws://127.0.0.1:55067
+1691188689194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55067/devtools/browser/0cd530ec-4707-4cd8-9f9d-8d7c5c4ff2a3
+1691188691580	Marionette	INFO	Stopped listening on port 55077
+Dynamically enable window occlusion 1
+1691528952662	geckodriver	INFO	Listening on 127.0.0.1:60044
+1691528955811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile2D6B3T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691528956140	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691528956144	Marionette	INFO	Listening on port 60053
+Read port: 60053
+WebDriver BiDi listening on ws://127.0.0.1:60045
+1691528956268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60045/devtools/browser/f89404e0-c201-454a-9bf9-937adb79ccfb
+JavaScript error: https://www.qa-practice.com/static/home/js/main.js, line 211: ReferenceError: handleToggleNavProfile is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1691532215548	Marionette	INFO	Stopped listening on port 60053
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilekAdYAg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691528964664	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691528964667	Marionette	INFO	Listening on port 60113
+Read port: 60113
+WebDriver BiDi listening on ws://127.0.0.1:60100
+1691528964791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60100/devtools/browser/499abe7e-6d74-488d-bbd7-61812fea62fd
+1691532219225	Marionette	INFO	Stopped listening on port 60113
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilePi5FT5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691529166976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691529166980	Marionette	INFO	Listening on port 60274
+Read port: 60274
+WebDriver BiDi listening on ws://127.0.0.1:60267
+1691529167095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60267/devtools/browser/cadce706-f303-41e6-905a-b9b6fbc826da
+JavaScript error: https://www.qa-practice.com/static/home/js/main.js, line 211: ReferenceError: handleToggleNavProfile is not defined
+1691529182531	Marionette	INFO	Stopped listening on port 60274
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilefHhmFu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691529174910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691529174914	Marionette	INFO	Listening on port 60318
+Read port: 60318
+WebDriver BiDi listening on ws://127.0.0.1:60311
+1691529175041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60311/devtools/browser/7d418d9d-c983-4b50-8fce-e304f87b4e41
+JavaScript error: https://www.qa-practice.com/static/home/js/main.js, line 211: ReferenceError: handleToggleNavProfile is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.qa-practice.com."
+JavaScript error: https://www.qa-practice.com/static/home/js/main.js, line 211: ReferenceError: handleToggleNavProfile is not defined
+1691529181120	Marionette	INFO	Stopped listening on port 60318
+Dynamically enable window occlusion 1
